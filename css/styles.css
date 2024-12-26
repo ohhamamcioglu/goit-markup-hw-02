@@ -93,7 +93,7 @@ body {
 .section-three{
   background-color: #f4f4fd;
 }
-.title-2{
+.title-sectionthree{
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -148,7 +148,4 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
   
-}
-.logo-span{
-  color: #ffffff;
 }
